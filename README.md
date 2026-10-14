@@ -10,6 +10,7 @@ This repository holds no source code — only the released builds: one GitHub Re
 version, with the downloads as its assets. Every download carries a README (what you need,
 setting up, the first-run warning, saving, removal) and a `THIRD-PARTY-NOTICES.txt` listing the
 open-source components it is built from — `README.txt` beside the program in the Windows and
-macOS zips, `/usr/share/doc/webrender-pdf-desk/` once the Linux package is installed.
+macOS zips and in the folder the Windows installer installs to, `/usr/share/doc/webrender-pdf-desk/`
+once the Linux package is installed.
 
-Windows and macOS are at 0.1.0; Linux is at 0.1.1.
+Windows and macOS are at 1.0.0; Linux is at 0.1.1.
